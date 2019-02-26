@@ -4,6 +4,11 @@ An Implementation of [ULMFit](http://nlp.fast.ai/classification/2018/05/15/intro
 # Downloading Data 
 [Twitter US Sentiment Data](https://www.kaggle.com/crowdflower/twitter-airline-sentiment) can be downloaded via the site. 
 
+# Usage 
+'twitter_data_exploration.ipynb' gives you a nice overview of the data exploration 
+and an implementation of ULMFit to obtain an accuracy of <b>62%</b>
+
+# Setting up Environment
 A detailed overview is provided by Jeremy Howard in the [fastai forum](https://forums.fast.ai/t/fastai-v0-7-install-issues-thread/24652)
 
 On Mac:
